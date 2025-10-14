@@ -45,7 +45,7 @@ To create a **high-performance analytics platform** that showcases:
 
 - Caching with **Redis** for aggregated queries
 - Fully responsive and accessible UI
-- Fully UI based performance
+- Fully UI based performance with speed
 
 ---
 
